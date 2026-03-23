@@ -103,11 +103,7 @@ We also prioritize vaccines that protect against **multiple diseases** (e.g., MM
 
 
 
-&#x20; Note: Polysaccharide vaccines produce T-cell independent immune responses, which are weaker and wane faster in the elderly — the 	population that needs it most responds to it least. Efficacy for preventing pneumonia (vs. invasive disease) is modest and
-
-&#x09;debated. The newer, more effective options (PCV15, PCV20) are conjugate vaccines, which use carrier proteins and are generally
-
-&#x09;considered outside "traditional" territory
+&#x20; Note: Polysaccharide vaccines produce T-cell independent immune responses, which are weaker and wane faster in the elderly — the 	population that needs it most responds to it least. Efficacy for preventing pneumonia (vs. invasive disease) is modest and debated. The newer, more effective options (PCV15, PCV20) are conjugate vaccines, which use carrier proteins and are generally considered outside "traditional" territory
 
 
 
