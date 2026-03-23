@@ -5,4 +5,4 @@ I'm not here to opine on the legal battle.
 
 As a thought experiment I asked three AI interfaces (Gemini, Grok, Claude)'s perspective  to think outside the box to come up with a vaccination schedule meeting the following parameters: maximize protection, minimize costs and the number of vaccines administered over one's lifetime, use only traditional, non-adjuvanted, non-mRNA/nanotech vaccines (to address the public's concerns about vaccines). I didn't indicate whether the vaccine schedule should be for the U.S. or the world and allowed the AI interface to select that parameter.
 
-Each AI interface returned a unique proposal, which I would like to share with everyone. Gemini's proposal was unique in the sense that it was the only proposal that mentioned "Gatekeeper" responsibilty and the use of Far-UVC lighting to kill germs.
+Each AI interface returned a unique proposal, which I would like to share with everyone. Gemini's proposal was unique in the sense that it was the only proposal that mentioned "Gatekeeper" responsibility and the use of Far-UVC lighting to kill germs.
