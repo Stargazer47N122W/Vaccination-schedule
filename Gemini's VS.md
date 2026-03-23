@@ -16,12 +16,12 @@ It represents a system designed to maximize human protection while minimizing th
 
 **The Four Pillars**
 
-1. **The Environmental Shield**: Instead of vaccinating for every respiratory "bug," we install 222nm Far-UVC lighting in schools and public buildings. This kills 99% of airborne viruses (Measles, Flu, Pertussis) before they reach your lungs.
+1. **The Environmental Shield**: Instead of vaccinating for every respiratory "bug," we install 222nm Far-UVC lighting in daycares, hospitals, schools and public buildings. This kills 99% of airborne viruses (Cold, Measles, Flu, Pertussis) before they reach your lungs. 
 2. **The "Natural-Mimic" Core**: We use only Live-Attenuated Vaccines (LAVs) for childhood. Because these are "weakened versions" of the real germ, they trigger a strong immune response without needing aluminum or chemical adjuvants.
 3. **Titer-First Precision**: Before any adult or teen gets a "booster," we perform a Quantitative Titer Test. If the 1–3 day lab result shows you are still immune, you skip the shot.
 4. **Gatekeeper Responsibility**: We protect infants and the elderly by requiring Hepatitis A \& B and Pertussis vaccines for professional "vectors" (healthcare, daycare, and food workers) only.
 
-
+Note: 222nm Far-UVC light is considered safe for human skin and eyes at currently recommended exposure levels, and it is highly effective at inactivating airborne pathogens at doses as low as 1.2 to 3 mJ/cm^2m which is a tiny fraction of the safe 8-hour limit.
 
 **The Lifetime "Clean \& Lean" Schedule**
 
