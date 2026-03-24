@@ -40,7 +40,7 @@ Note: 222nm Far-UVC light is considered safe for human skin and eyes at currentl
 
 In this plan, we do not recommend the traditional DTaP shot for the general childhood population because it currently requires adjuvants (which are excluded from this "Clean" model).
 
-* **The Alternative**: We rely on the Environmental Shield to stop Diphtheria and Pertussis in schools and the Gatekeeper Model to ensure caregivers don't bring Diphtheria or Tetanus-related bacteria into the home.
+* **The Alternative**: We rely on the Environmental Shield to stop Diphtheria and Pertussis in schools and the Gatekeeper Model to ensure caregivers don't bring Diphtheria or Pertussis into the home.
 * **The Future**: Once the Live-Attenuated Nasal Pertussis (BPZE1) is fully launched, it would be added to the childhood list as a "Clean" (no adjuvant) option.
 
 
